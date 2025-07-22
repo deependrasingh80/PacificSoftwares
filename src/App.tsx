@@ -8,6 +8,8 @@ import Testimonials from './components/Testimonials';
 import FAQ from './components/FAQ';
 import Contact from './components/Contact';
 import Footer from './components/Footer';
+import AboutUs from "./components/AboutUs";
+
 
 function App() {
   return (
@@ -21,6 +23,7 @@ function App() {
       
       <main id="main-content">
         <Hero />
+        <AboutUs />
         <Portfolio />
         <Services />
         <Process />

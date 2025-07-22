@@ -1,9 +1,13 @@
+/* Import Poppins Font */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap');
+
+/* now custom CSS, Tailwind base, or variables below */
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
-/* Import Poppins Font */
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap');
+
+
 
 /* CSS Custom Properties for Theme Colors */
 :root {
